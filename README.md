@@ -1,7 +1,7 @@
 # ☕ BlueBrew Coffee
 
 <div align="center">
-  <img src="./Coffee-shop-app-photos-14.2.26/Screenshot 2026-02-14 at 6.50.45 pm.png" width="100%" alt="BlueBrew Coffee App UI">
+  <img src="./Coffee-shop-app-photos-14.2.26/Screenshot 2026-02-14 at 6.25.01 pm.png" width="100%" alt="BlueBrew Coffee App UI">
 </div>
 
 A modern, full-stack 3-tier web application serving as a fully functional coffee shop ordering system. Built with performance and scalability in mind, it features a sleek consumer-facing frontend, a robust API, and a reliable database backbone.
